@@ -1,0 +1,1 @@
+class VicePresident(name: String) : Employee(name)
